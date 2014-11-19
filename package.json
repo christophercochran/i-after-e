@@ -1,0 +1,22 @@
+{
+  "name": "uppercase-handbook",
+  "title": "Uppercase Handbook",
+  "description": "Handbook Theme for Uppercase HR",
+  "version": "0.1.0",
+  "homepage": "http://uppercasehr.com/hr-handbook",
+  "author": {
+    "name": "Christopher Cochran",
+    "email": "christophercochran@me.com",
+    "url": "http://christophercochran.me"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "matchdep": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest"
+  },
+  "keywords": []
+}
